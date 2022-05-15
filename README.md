@@ -1,3 +1,4 @@
 # Projet-QRCode
-Le but de ce projet est de programmer un lecteur de QR code.
+Objectif : Programmer un lecteur de QR code.
+Projet présenter par : JEYAKANTHAN Thushanth et BAYISSA Andrew
 
