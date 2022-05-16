@@ -5,3 +5,5 @@ Projet présenter par : JEYAKANTHAN Thushanth et BAYISSA Andrew
 Erreur de notre code voici les erreurs: 
 -Nous avons pas réussi tous les questions
 -Nous avons defini les fonctions mais n'avons pas reussi à assimilier les fonctions entre eux
+
+On a fait de notre mieux malgres les recherches et le temps passé sur ce projet.
